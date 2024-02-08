@@ -1,8 +1,7 @@
 ### Hi there 🙋🏼‍♀️, my name is Esmée.. looks like you've found my Github profile!
 
 💬 Who is Esmée? 
-I'm a Creative 'firestarter', who loves learning new things every day and integrates these experiences into creating inspiring ideas and solutions. Although I love to be in that flow, I also appreciate to stop, detach and observe things from a distance. However, challenging the status quo is something I'll never stop doing.
-
+I'm a Creative 'firestarter', who loves learning new things every day and integrates these experiences into creating inspiring ideas and solutions. My scope in one sentence: I create and work on webapplications (frontend and backend) with Javascript, HTML, CSS, NodeJs, ExpressJs, React, Bootstrap, and I am starting with Typescript as well. 
 
 🌱 Currently I'm creating an web-app called YearlyCompass ✨ to practice creating a fullstack app with the MERN stack
 
